@@ -1,0 +1,8 @@
+[
+    {
+        "username": "ADMIN",
+        "password": "user",
+        "is_blocked": false,
+        "password_restrictions": false
+    }
+]
